@@ -1,2 +1,1 @@
-# KMySQLBackup moved to https://gitlab.com/KiraKun/kmysqlbackup because GitHub sucks
-https://twitter.com/natfriedman/status/1271253144442253312
+# KMySQLBackup moved to [Gitlab](https://gitlab.com/KiraKun/kmysqlbackup) because GitHub sucks [Twitter post from GitHub CEO](https://twitter.com/natfriedman/status/1271253144442253312)
